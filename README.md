@@ -9,10 +9,9 @@ This project provides a simple API to generate random text based on different wo
 The base URL for the API is:
 
 ```
-https://your-vercel-project.vercel.app/api/generate
+https://word-generator-api.vercel.app/api/generate
 ```
 
-Replace `your-vercel-project` with your actual Vercel project name.
 
 ### Endpoints
 
@@ -28,7 +27,7 @@ Generates random text based on the specified word list and format.
 
 -   **Example Request:**
     ```
-    https://your-vercel-project.vercel.app/api/generate?wordList=latin&format=array&limit=5
+    https://word-generator-api.vercel.app/api/generate?wordList=latin&format=array&limit=5
     ```
 
 ## WordGenerator Class
@@ -104,7 +103,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributing
 
 Feel free to submit issues or pull requests for new features, bug fixes, or improvements!
-
-```
-
-```
