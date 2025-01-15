@@ -1,0 +1,17 @@
+export const leetWords = [
+    'pwn',
+    'n00b',
+    'l33t',
+    'h4x0r',
+    'owned',
+    'epic',
+    'fail',
+    'win',
+    'afk',
+    'gg',
+    'imba',
+    'lag',
+    'spam',
+    'buff',
+    'nerf',
+];
