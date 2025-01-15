@@ -62,7 +62,7 @@ new WordGenerator((settings = {}));
 
 You can find a live demonstration of the `WordGenerator` class and various use cases on CodePen:
 
-[CodePen Project - Word Generator](https://codepen.io/peterbenoit/project/editor/DNYyGr)
+[CodePen Project - Word Generator](https://000702492.deployed.codepen.website/)
 
 ## Getting Started
 
